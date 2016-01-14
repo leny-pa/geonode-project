@@ -1,18 +1,10 @@
-{{ project_name|title }}
-========================
+How to create a GeoNode project in order to customize the look&feel
+==================================================================
 
 You should write some docs, it's good for the soul.
 
 Installation
 ------------
-
-Install geonode with::
-
-    $ sudo add-apt-repository ppa:geonode/stable
-
-    $ sudo apt-get update
-
-    $ sudo apt-get install geonode
 
 Create a new template based on the geonode example project.::
     
